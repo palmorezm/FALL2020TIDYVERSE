@@ -597,3 +597,4 @@ Analysis of Diamond clarity and depth correlation/frequency as well as ratio [pe
 Change Log:
 26 October: Added vignette w/ examples for purrr and forcats, Cameron Smith
 
+palmorezm Extended Zhouxin Shi's dplyr filter vignette by adding another example of the filter function's usage and adding detail about the function and its arguments. Data used was identical to that of Zhouxin Shi's create vignette and it was used build on the existing examples. No changes were made to isolate dplyr::filter vigette. As such the read_csv and select functions remain as additional background for the extended portion of this vignette. 
